@@ -235,7 +235,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                 <l n="306">εῦχετ᾽ έπειτα στᾶς μεσῳ ἑρκεΐ λεῖβε δε οινον.</l>
                 <l n="307">ουρανον εισανιδὼν- και φωνησας έπος ηυδα-</l>
                 <l n="308"><persName n="urn:cite2:hmt:pers:pers8">Ζευ</persName> πατερ <del/>
-                    ῑδηθεν μεδέων κύ̄διστε μεγιστε-</l>
+                    ῑδηθεν μεδέων κύ_διστε μεγιστε-</l>
                 <l n="309">δος μ᾽ ες <persName n="urn:cite2:hmt:pers:pers1">Αχιλληος</persName>
                     φιλον ελθειν ὴδ᾽ ελεεὶνον-</l>
                 <l n="310">πεμψον δ οιὼνον ταχυν άγγελον ὅς τε σοῖ αυτῳ</l>
@@ -266,9 +266,9 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         />δούπου</w>-</l>
                 <l n="324">πρόσθε μεν ῆμιονοι ελκον <w>τετράκ<gap unit="letters" extent="2"/>λον
                         απήνην.</w></l>
-                <l n="325">τας <persName n="urn:cite2:hmt:pers:pers">Ϊ̄δαιος</persName> έλαυνε
+                <l n="325">τας <persName n="urn:cite2:hmt:pers:pers">Ϊ_δαιος</persName> έλαυνε
                     δαΐφρων- <w>αυτα<gap unit="letters" extent="1"/></w>
-                    <w><gap unit="letters" extent="2"/>´<unclear>π</unclear><gap unit="letters"
+                    <w><gap unit="letters" extent="2"/>/<unclear>π</unclear><gap unit="letters"
                             extent="1"/><unclear>σ</unclear>θε</w></l>
                 <l n="326">ιπποι τους ὁ γερων εφέπων <w>μάσ<unclear>τ</unclear><gap unit="letters"
                             extent="3"/></w>
@@ -277,7 +277,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                 <l n="328">πὸλλ᾽ ολοφυρόμενοι ὡς ει θανατον δε κιοντα-</l>
                 <l n="329">ὁι δ επει οὺν πολιος κατέβαν πεδίον δ αφικοντο-</l>
                 <l n="330">οἱ μεν αρ' αψορροι προτι <placeName n="urn:cite2:hmt:place:place6"
-                        >Ϊ̄λιον</placeName> απονέοντο</l>
+                        >Ϊ_λιον</placeName> απονέοντο</l>
                 <l n="331">παιδες και γαμβροι- τω δ ού λαθον ευρύοπα <persName
                         n="urn:cite2:hmt:pers:pers8"><w>Ζὴ<del>ν</del></w></persName></l>
                 <l n="332">ες πεδιον προφανέντε- ϊδὼν δ ελέησε γέροντα-</l>
